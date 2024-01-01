@@ -2440,6 +2440,13 @@ body.is-touch .main {
 	background-position: top left, center center;
 }
 
+#ba {
+	background: url("images/8ba.png"), url("../../images/8ba.png");
+	background-size: 256px 256px, cover;
+	background-attachment: fixed, fixed;
+	background-position: top left, center center;
+}
+
 /* Contact */
 
 #contact {
